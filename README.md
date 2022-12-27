@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,express,next,postgres,mongodb,py,java,androidstudio,aws,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,express,next,postgres,mongodb,py,java,androidstudio,aws,docker,kubernetes&perline=8)](https://skillicons.dev)
 
 # My Stats
 

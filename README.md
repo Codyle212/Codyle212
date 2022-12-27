@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+# My Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Codyle212)](https://git.io/streak-stats)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codyle212)](https://github.com/anuraghazra/github-readme-stats)

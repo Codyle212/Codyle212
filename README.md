@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,vite,express,next,postgres,mongodb,py,java,androidstudio,c,cpp,aws,docker&perline=8)](https://skillicons.dev)
 
 # My Certifications
-[![AWS Badge](./aws-certified-developer-associate.png?raw=true){width=30 height=30}](https://www.credly.com/badges/8a700487-49a9-44c9-97bf-19b5e8b829a7/public_url)
+[![AWS Badge](./aws-certified-developer-associate.png?raw=true){width=30px height=30px}] (https://www.credly.com/badges/8a700487-49a9-44c9-97bf-19b5e8b829a7/public_url)
 
 # My Stats
 

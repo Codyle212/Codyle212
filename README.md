@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,vite,express,next,postgres,mongodb,py,java,androidstudio,c,cpp,aws,docker&perline=8)](https://skillicons.dev)
 
+# Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8a700487-49a9-44c9-97bf-19b5e8b829a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 # My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codyle212&show_icons=true&theme=radical)

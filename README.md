@@ -1,10 +1,10 @@
 ### Hi there 👋
-  - 🎈 I’m a software developer with experience in front-end and back-end technologies, I bring a strong understanding of modern web development practices to every project I work on. With expertise in building RESTful APIs using frameworks such as Express.js and Django, as well as proficiency in popular front-end libraries such as React and Redux, I have the ability to create robust and efficient applications that meet the needs of clients and users alike. Alongside my technical skills, I am a collaborative team player with a strong work ethic and a commitment to delivering high-quality work on time and on budget. Whether working on a large-scale project or a small prototype, I am passionate about solving complex problems and bringing innovative solutions to life.
+ 
 <!--
 **Codyle212/Codyle212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 🎈 I’m a software developer with experience in front-end and back-end technologies, I bring a strong understanding of modern web development practices to every project I work on. With expertise in building RESTful APIs using frameworks such as Express.js and Django, as well as proficiency in popular front-end libraries such as React and Redux, I have the ability to create robust and efficient applications that meet the needs of clients and users alike. Alongside my technical skills, I am a collaborative team player with a strong work ethic and a commitment to delivering high-quality work on time and on budget. Whether working on a large-scale project or a small prototype, I am passionate about solving complex problems and bringing innovative solutions to life.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

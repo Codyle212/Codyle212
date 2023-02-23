@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,vite,nodejs,express,next,postgres,mongodb,py,cpp,aws,azure,docker,kubernetes&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,redux,vite,nodejs,express,next,postgres,mongodb,py,cpp,aws,azure,docker,kubernetes&perline=8)](https://skillicons.dev)
 
 # My Certifications
 <a href="https://www.credly.com/badges/8a700487-49a9-44c9-97bf-19b5e8b829a7/public_url"><img src="./aws-certified-developer-associate.png?raw=true" width="120" height="120"></a>

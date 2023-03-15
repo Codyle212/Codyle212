@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Linkedin: shiningle](https://img.shields.io/badge/-shiningle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiningle/)](https://www.linkedin.com/in/shiningle/)
 <!-- [![Email: codyle212@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:codyle212@gmail.com)](mailto:codyle212@gmail.com) -->
-## My Skills
+## My Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,redux,vite,nodejs,express,next,postman,postgres,mongodb,py,cpp,aws,azure,docker,kubernetes,go&perline=8)](https://skillicons.dev)
 
 ## My Certifications

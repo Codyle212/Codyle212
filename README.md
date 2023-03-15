@@ -1,4 +1,4 @@
-### Hi there <img src="./wave.gif" alt="Waving hand animated gif" height="30" width="30" />
+### Hi there <img src="./wave.gif" alt="Waving hand animated gif" height="20" width="20" />
  
 <!--
 **Codyle212/Codyle212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

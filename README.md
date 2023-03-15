@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin: shiningle](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiningle/)](https://www.linkedin.com/in/shiningle/)
+
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,redux,vite,nodejs,express,next,postman,postgres,mongodb,py,cpp,aws,azure,docker,kubernetes,go&perline=8)](https://skillicons.dev)
 

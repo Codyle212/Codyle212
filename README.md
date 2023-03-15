@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## My Certifications
 <a href="https://www.credly.com/badges/8a700487-49a9-44c9-97bf-19b5e8b829a7/public_url"><img src="./aws-certified-developer-associate.png?raw=true" width="120" height="120"></a>
 
-## My Stats
+## My Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codyle212&show_icons=true&theme=radical)
 

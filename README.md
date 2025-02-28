@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiningle/)](https://www.linkedin.com/in/shiningle/)
 <!-- [![Email: codyle212@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:codyle212@gmail.com)](mailto:codyle212@gmail.com) -->
 ## My Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,redux,vite,nodejs,express,next,postman,postgres,mongodb,py,cpp,aws,azure,docker,kubernetes,go&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,next,postgres,mongodb,aws,azure,docker,kubernetes,go&perline=8)](https://skillicons.dev)
 
 ## My Certifications
 <a href="https://www.credly.com/badges/8a700487-49a9-44c9-97bf-19b5e8b829a7/public_url"><img src="./aws-certified-developer-associate.png?raw=true" width="120" height="120"></a>

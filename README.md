@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,next,postgres,mongodb,aws,azure,docker,kubernetes,go&perline=8)](https://skillicons.dev)
 
 ## My Certifications
+<a href="https://www.credly.com/badges/6697c9c5-cdc5-43a3-9d0c-75a8839c105b/public_url"><img src="./github_foundations.png?raw=true" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/8a700487-49a9-44c9-97bf-19b5e8b829a7/public_url"><img src="./aws-certified-developer-associate.png?raw=true" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/98dacd0f-854c-42bc-949f-1fc7f404a84d/public_url"><img src="./aws-certified-solutions-architect-associate.png?raw=true" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/eed19c34-063a-4134-bc64-d69dbfddf5b2/public_url"><img src="./certified_kubernetes_administrator.png?raw=true" width="120" height="120"></a>
